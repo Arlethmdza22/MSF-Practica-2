@@ -1,4 +1,4 @@
-# Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Mendoza20211984]
+# Modelado de Sistemas Fisiológicos. Práctica 2: Sistema Respiratorio [Mendoza20211984]
 
 ## Autor
 Mendoza Perez Arleth Alejandra 
